@@ -1,4 +1,5 @@
 audio = new Audio('' + linkmp3.src);
+audio.loop = true;
 // Edit Icon Memory Game di Sini
     const kartu = [
 	  { id: 3, icon: '🫶🏻', pesan: '' },
